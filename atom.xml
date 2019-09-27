@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-27T05:23:49.184Z</updated>
+  <updated>2019-09-27T06:16:35.658Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《原则》笔记</title>
+    <link href="http://yoursite.com/2019/09/27/lift1/"/>
+    <id>http://yoursite.com/2019/09/27/lift1/</id>
+    <published>2019-09-27T05:41:31.000Z</published>
+    <updated>2019-09-27T06:16:35.658Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第三部分-工作原则"><a href="#第三部分-工作原则" class="headerlink" title="第三部分 工作原则"></a>第三部分 工作原则</h2><h3 id="一个机构就像一部机器，主要由两部分组成：文化和人"><a href="#一个机构就像一部机器，主要由两部分组成：文化和人" class="headerlink" title="一个机构就像一部机器，主要由两部分组成：文化和人"></a>一个机构就像一部机器，主要由两部分组成：文化和人</h3><p>a 优秀的机构拥有优秀的人和优秀的文化<br>b 优秀的人具备高尚的品格和出色的能力<br>c 优秀的文化不是掩盖问题而是公开妥善的解决，喜欢让想象力驰骋并且愿意开创先河</p><h3 id="严厉之爱有助于成就优异的工作业绩和建立良好的人际关系"><a href="#严厉之爱有助于成就优异的工作业绩和建立良好的人际关系" class="headerlink" title="严厉之爱有助于成就优异的工作业绩和建立良好的人际关系"></a>严厉之爱有助于成就优异的工作业绩和建立良好的人际关系</h3><p>a 为了成就伟大事业，对不妥协的事情就必须坚持立场，寸步不让。</p><h3 id="基于可信度加权的创意优先是实现有效决策的最佳模式"><a href="#基于可信度加权的创意优先是实现有效决策的最佳模式" class="headerlink" title="基于可信度加权的创意优先是实现有效决策的最佳模式"></a>基于可信度加权的创意优先是实现有效决策的最佳模式</h3><p>创意优先=极度求真+极度透明+可信度加权的决策</p><h3 id="让热情与工作合而为一，并与志同道合者倾力推进"><a href="#让热情与工作合而为一，并与志同道合者倾力推进" class="headerlink" title="让热情与工作合而为一，并与志同道合者倾力推进"></a>让热情与工作合而为一，并与志同道合者倾力推进</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第三部分-工作原则&quot;&gt;&lt;a href=&quot;#第三部分-工作原则&quot; class=&quot;headerlink&quot; title=&quot;第三部分 工作原则&quot;&gt;&lt;/a&gt;第三部分 工作原则&lt;/h2&gt;&lt;h3 id=&quot;一个机构就像一部机器，主要由两部分组成：文化和人&quot;&gt;&lt;a href=&quot;#一
+      
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://yoursite.com/categories/life/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

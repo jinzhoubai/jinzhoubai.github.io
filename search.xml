@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《原则》笔记]]></title>
+    <url>%2F2019%2F09%2F27%2Flift1%2F</url>
+    <content type="text"><![CDATA[第三部分 工作原则一个机构就像一部机器，主要由两部分组成：文化和人a 优秀的机构拥有优秀的人和优秀的文化b 优秀的人具备高尚的品格和出色的能力c 优秀的文化不是掩盖问题而是公开妥善的解决，喜欢让想象力驰骋并且愿意开创先河 严厉之爱有助于成就优异的工作业绩和建立良好的人际关系a 为了成就伟大事业，对不妥协的事情就必须坚持立场，寸步不让。 基于可信度加权的创意优先是实现有效决策的最佳模式创意优先=极度求真+极度透明+可信度加权的决策 让热情与工作合而为一，并与志同道合者倾力推进]]></content>
+      <categories>
+        <category>life</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F09%2F27%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy test1test More info: Deployment]]></content>
